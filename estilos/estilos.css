@@ -10,5 +10,8 @@ button{
     padding: 18px 5px;
     border-radius: 18px;
     border: none;
+    background-color: hsl(210, 100%, 50%);
+    color: white;
+    font-weight: bold;
 }
 
