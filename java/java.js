@@ -9,6 +9,8 @@ function tirarDado() {
     for(let i = 0; i < numDado; i++){
         const value = Math.floor(Math.random()*6)+1;
         values.push(value);
+        images.push('<img src="images/${value}.png">');
     }
 
+    
 }
